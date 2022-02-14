@@ -1912,7 +1912,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			body {
-				padding-top: 2.5em;
+				padding-top: 0em;
 			}
 
 		}
